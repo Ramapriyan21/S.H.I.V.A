@@ -1,4 +1,6 @@
-#S.H.I.V.A (Simple Highly Intelligent Virtual Assistant)
+**S.H.I.V.A (Simple Highly Intelligent Virtual Assistant)**
+
+
 S.H.I.V.A is a voice-activated virtual assistant built using Python, which can recognize voice commands, respond with text-to-speech, and execute various tasks such as telling jokes, checking the time, and more. The assistant listens for specific commands and can be exited by voice.
 
 Features
