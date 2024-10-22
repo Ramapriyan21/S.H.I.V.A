@@ -68,4 +68,5 @@ You can easily extend the assistant by adding more commands and functionality, s
 
 ## License
 
-This project is open-source. Feel free to modify and use it as needed.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
